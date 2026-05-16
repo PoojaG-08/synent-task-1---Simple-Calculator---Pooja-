@@ -50,7 +50,9 @@ python calculator.py
 ===== Simple Calculator =====
 
 Enter first number: 10
+
 Enter operator (+, -, *, /): *
+
 Enter second number: 5
 
 Result: 50.0
